@@ -21,7 +21,7 @@ To set up your system to provision on-demand Cloud PCs for you, you need to:
 - The Cloud PC will use 4h frequency for restore-point service
 - Following Applications 7-Zip(x64) and Adobe Acrobat Reader DC must be installed during provisioning
 - Your Cloud PC is using the Microsoft Hosted Networks.
-- Create a provisioning policy.
+- Create a provisioning policy with W365_Provisioning-ENT-P[count]-Users
 - **Make sure your Cloud PC has a custom name that is not the default, for example: CPC-P1-%RAND:5%"**
 
 ## Success Criteria
