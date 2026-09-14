@@ -10,10 +10,10 @@ After provisioning, you can customize the user experience by using Intune to pus
 
 ## Challenge
 
-It is important that your users have following applications installed :
--**Visual Studio Code**
--**GIMP** (automatic update enabled)
--**VideoLAN VLC media player**
+It is important that your users have following applications installed* :
+- **Visual Studio Code**
+- **GIMP** (automatic update enabled)
+- **VideoLAN VLC media player**
 
 *Note : You can choose to deploy the app either as a Win32 application or as a Microsoft Store app or Windows catalog app
 
