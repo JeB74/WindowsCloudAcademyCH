@@ -1,4 +1,4 @@
-# Challenge 4: Deploy Windows 365 Flex Shared Desktop or Cloud Apps
+# Challenge 5: Monitor and Operate Windows 365
 
 [Previous Challenge](./04-W365-Flex-Provisioning.md) - **[Home](../../README.md)**
 
@@ -21,8 +21,5 @@ Each participant has **only one** Windows 365 Flex license available, so decide 
 
 
 ## Learning Resources
-- [What is Windows 365 Flex?](https://learn.microsoft.com/en-us/windows-365/enterprise/introduction-windows-365-Flex)
-- [Create provisioning policies](https://learn.microsoft.com/en-us/windows-365/enterprise/create-provisioning-policy)
-- [Windows 365 Cloud Apps](https://learn.microsoft.com/en-us/windows-365/enterprise/cloud-apps)
-- [User Experience Sync for Windows 365 Flex in shared mode](https://learn.microsoft.com/en-us/windows-365/enterprise/windows-365-flex-user-experience-sync)
-
+-  [Alerts in Windows 365] (https://learn.microsoft.com/en-us/windows-365/enterprise/alerts)
+- [Cloud PC actions report](https://learn.microsoft.com/en-us/windows-365/enterprise/report-cloud-pc-actions)
