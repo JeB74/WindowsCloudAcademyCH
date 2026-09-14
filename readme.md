@@ -67,7 +67,9 @@ By the end of this Academy, you'll be able to:
  - Challenge 1: **[Build a Copilot Studio Agent with Computer Use on Windows 365 (Draft)](Challenges/W365A/01-W365A-Copilot-Agent.md)**
 
 ## Contributor
-
+- [Jean-Noël Buosi](https://www.linkedin.com/in/jean-noël-buosi/)
+- [Slavko Vasic](https://www.linkedin.com/in/slavkovasic/)
+- [Christian Volkmer]([https://www.linkedin.com/in/slavkovasic/](https://www.linkedin.com/in/cvolkmer/)
 - [Ben Martin Baur](https://www.linkedin.com/in/ben-martin-baur/)
 - [Daniel Weppeler](https://www.linkedin.com/in/daniel-weppeler/)
 
