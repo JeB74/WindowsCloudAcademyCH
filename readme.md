@@ -69,7 +69,7 @@ By the end of this Academy, you'll be able to:
 ## Contributor
 - [Jean-Noël Buosi](https://www.linkedin.com/in/jean-noël-buosi/)
 - [Slavko Vasic](https://www.linkedin.com/in/slavkovasic/)
-- [Christian Volkmer]([https://www.linkedin.com/in/slavkovasic/](https://www.linkedin.com/in/cvolkmer/)
+- [Christian Volkmer](https://www.linkedin.com/in/slavkovasic/](https://www.linkedin.com/in/cvolkmer/)
 - [Ben Martin Baur](https://www.linkedin.com/in/ben-martin-baur/)
 - [Daniel Weppeler](https://www.linkedin.com/in/daniel-weppeler/)
 
