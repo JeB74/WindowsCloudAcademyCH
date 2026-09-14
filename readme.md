@@ -57,7 +57,7 @@ By the end of this Academy, you'll be able to:
   
  ### Windows 365
  
- - Challenge 1: **[Provisioning a Windows 365 Enterprise Cloud PC](Challenges/W365/01-W365-Provisioning-CPC.md)**
+ - Challenge 1: **[Provisioning a Windows 365 Enterprise Cloud PC](Windows365/01-W365ENT-Provisioning-CPC.md)**
  - Challenge 2: **[Configure RDP Properties](Challenges/W365/02-W365-RDP-Properties.md)**
  - Challenge 3: **[Deploy application via Intune](Challenges/W365/03-W365-App-Deployment.md)**
  - Challenge 4: **[Deploy Windows 365 Flex Shared Desktop or Cloud Apps](Challenges/W365/04-W365-Flex.md)**
