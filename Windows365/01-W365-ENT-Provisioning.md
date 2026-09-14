@@ -15,15 +15,18 @@ You have purchased one Windows 365 Enterprise licenses. At this point, you can s
 To set up your system to provision on-demand Cloud PCs for you, you need to:
 
 - An Entra ID group with **GRP-P[count]-Users**, e.g. GRP-P1-Users, is already created.
-- Assign licenses to your user or group.
--- Assign Cloud PC settings
-- Your User should have local admin rights for his Cloud PC.
-- Your User should be able to reset and initiate a restore of his Cloud PC.
-- The Cloud PC will use 4h frequency for restore-point service
+
+- Create and assign Cloud PC settings to your Entra ID group
+  - Your User should have local admin rights for his Cloud PC.
+  - Your User should be able to reset and initiate a restore of his Cloud PC.
+  - The Cloud PC will use 4h frequency for restore-point service
 - Following Applications **7-Zip(x64)** and **Adobe Acrobat Reader DC** must be installed during provisioning
-- Your Cloud PC is using the Microsoft Hosted Networks.
 - Create a provisioning policy with **W365ENT_PP-P[count]-YourPolicyName**
+  - Your Cloud PC is using the Microsoft Hosted Networks.
+  - Your Cloud PC is using latest version of Windows 11 with M365Apps
+  - The Cloud PC is located in Switzerland and using Entra SSO
 - **Make sure your Cloud PC has a custom name that is not the default, for example: CPC-P1-%RAND:5%"**
+- Assign licenses to your user or group and monitor 'All Cloud PCs' view
 
 ## Success Criteria
 - A Windows365 & Intune License is automatically assigned to your users.
