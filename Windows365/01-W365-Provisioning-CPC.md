@@ -18,7 +18,7 @@ To set up your system to provision on-demand Cloud PCs for you, you need to:
 - Assign licenses to your user or group.
 -- Assign Cloud PC settings
 - Your User should have local admin rights for his Cloud PC.
-- Your User should be able to reset and initiate a restore of their Cloud PC.
+- Your User should be able to reset and initiate a restore of his Cloud PC.
 - The Cloud PC will use 4h frequency for restore-point service
 - Following Applications **7-Zip(x64)** and **Adobe Acrobat Reader DC** must be installed during provisioning
 - Your Cloud PC is using the Microsoft Hosted Networks.
