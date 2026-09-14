@@ -21,5 +21,5 @@ Each participant has **only one** Windows 365 Flex license available, so decide 
 
 
 ## Learning Resources
--  [Alerts in Windows 365] (https://learn.microsoft.com/en-us/windows-365/enterprise/alerts)
+- [Alerts in Windows 365](https://learn.microsoft.com/en-us/windows-365/enterprise/alerts)
 - [Cloud PC actions report](https://learn.microsoft.com/en-us/windows-365/enterprise/report-cloud-pc-actions)
