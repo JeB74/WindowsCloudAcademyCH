@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Windows 365 is a new cloud-based service offered by Microsoft that allows businesses to stream a virtualized version of Windows 10 or Windows 11 to any device with an internet connection. Essentially, it is a subscription-based service that enables users to access a cloud-based Windows desktop from any device, including laptops, tablets, and smartphones, without needing to install Windows locally. The service is designed to provide greater flexibility and scalability to businesses, allowing them to quickly and easily provision Windows-based virtual machines to their employees as needed.
+Windows 365 is a new cloud-based service offered by Microsoft that allows businesses to stream a virtualized version of Windows 11 to any device with an internet connection. Essentially, it is a subscription-based service that enables users to access a cloud-based Windows desktop from any device, including laptops, tablets, and smartphones, without needing to install Windows locally. The service is designed to provide greater flexibility and scalability to businesses, allowing them to quickly and easily provision Windows-based virtual machines to their employees as needed.
 
 With Windows 365, users can log in to their cloud-based Windows desktop from anywhere, using any device, and access all their apps, files, and settings as if they were using a physical computer. The service is particularly useful for businesses with remote workers, as it enables employees to work from any location and on any device, while still providing the same Windows experience and security they would have in the office.
 
@@ -16,18 +16,19 @@ To set up your system to provision on-demand Cloud PCs for you, you need to:
 
 - An Entra ID group with **GRP-P[count]-Users**, e.g. GRP-P1-Users, is already created.
 - Assign licenses to your user or group.
+-- Assign Cloud PC settings
 - Your User should have local admin rights for his Cloud PC.
 - Your User should be able to reset and initiate a restore of their Cloud PC.
 - The Cloud PC will use 4h frequency for restore-point service
-- Following Applications 7-Zip(x64) and Adobe Acrobat Reader DC must be installed during provisioning
+- Following Applications **7-Zip(x64)** and **Adobe Acrobat Reader DC** must be installed during provisioning
 - Your Cloud PC is using the Microsoft Hosted Networks.
-- Create a provisioning policy with W365_Provisioning-ENT-P[count]-Users
+- Create a provisioning policy with **W365ENT_PP-P[count]-YourPolicyName**
 - **Make sure your Cloud PC has a custom name that is not the default, for example: CPC-P1-%RAND:5%"**
 
 ## Success Criteria
 - A Windows365 & Intune License is automatically assigned to your users.
 - Your User has local admin rights.
-- A provisioning policy with **PP-P[count]-YourPolicyName** is created.
+- A provisioning policy with **W365ENT_PP-P[count]-YourPolicyName** is created.
 - A Cloud PC deployment is running.
 
 ## Learning Resources
