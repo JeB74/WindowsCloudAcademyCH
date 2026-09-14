@@ -39,7 +39,10 @@ By the end of this Academy, you'll be able to:
  
  This is the Windows Cloud Academy Architecture:
  
- ![This image shows the Windows Cloud Academy Architecture](Images/WindowsCloud-accelerator-baseline-architecture.png)
+- Windows 365 Enterprise 2 vCPU, 8 GB, 128 GB :  25 licenses
+- Windows 365 Felx 2 vCPU, 8 GB, 128 GB :  25 licenses
+- No custom image
+- No ANC
  
  ## Credentials
  
