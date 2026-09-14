@@ -2,11 +2,10 @@
 
 # Windows Cloud Academy
 
-The Winodws Cloud Academy is designed to help you get hands-on experience with Windows 365 (W365) and Azure Virtual Desktop (AVD). 
+The Windows Cloud Academy Switzerland is designed to help you get hands-on experience with Windows 365 (W365) .
 
 W365 - is a cloud-based service that automatically provisions Cloud PCs—dedicated Windows devices assigned to individual users. It combines the productivity, security, and collaboration features of Microsoft 365 with the flexibility of the cloud.
 
-AVD – is a fully cloud-native Desktop-as-a-Service (DaaS) platform. It includes built-in infrastructure components like brokering, web access, load balancing, management, and monitoring—all configurable via the Azure portal, ARM templates, Bicep, or Terraform.
 
 ## Learning objectives 
 
