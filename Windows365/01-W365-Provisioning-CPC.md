@@ -17,6 +17,8 @@ To set up your system to provision on-demand Cloud PCs for you, you need to:
 - An Entra ID group with **GRP-P[count]-Users**, e.g. GRP-P1-Users, is already created.
 - Assign licenses to your user or group.
 - Your User should have local admin rights for his Cloud PC.
+- Your User should be able to reset and initiate a restore of their Cloud PC.
+- The Cloud PC will use 4h frequency for restore-point service
 - Your Cloud PC is using the Microsoft Hosted Networks.
 - Create a provisioning policy.
 - **Make sure your Cloud PC has a custom name that is not the default, for example: CPC-P1-%RAND:5%"**
