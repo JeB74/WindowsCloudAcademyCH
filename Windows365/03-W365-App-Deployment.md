@@ -10,9 +10,12 @@ After provisioning, you can customize the user experience by using Intune to pus
 
 ## Challenge
 
-It is important that your users have **Visual Studio Code** installed. 
+It is important that your users have following applications installed :
+-**Visual Studio Code**
+-**GIMP** (automatic update enabled)
+-**VideoLAN VLC media player**
 
-You can choose to deploy the app either as a Win32 application or as a Microsoft Store app. 
+*Note : You can choose to deploy the app either as a Win32 application or as a Microsoft Store app or Windows catalog app
 
 If you decide to deploy Visual Studio Code as a Win32 application, use a unique app name format such as: **App-P[count]-YourAppName**. 
 
