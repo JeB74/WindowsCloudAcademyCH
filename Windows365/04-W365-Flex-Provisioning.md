@@ -1,6 +1,6 @@
 # Challenge 4: Deploy Windows 365 Flex Shared Desktop or Cloud Apps
 
-[Previous Challenge](./03-W365-App-Deployment.md) - **[Home](../../README.md)** - [Next Challenge](./05-W365-Operations)
+[Previous Challenge](./03-W365-App-Deployment.md) - **[Home](../../README.md)** - [Next Challenge](./05-W365-Operations.md)
 
 ## Introduction
 
