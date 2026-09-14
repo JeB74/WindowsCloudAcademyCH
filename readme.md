@@ -1,4 +1,4 @@
-![header](Images/header.png)
+![header](Images/Header.png)
 
 # Windows Cloud Academy
 
