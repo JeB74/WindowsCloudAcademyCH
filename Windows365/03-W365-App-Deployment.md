@@ -15,7 +15,7 @@ It is important that your users have following applications installed* :
 - **GIMP** (automatic update enabled)
 - **VideoLAN VLC media player**
 
-> *[!NOTE]
+> [!NOTE]
 > You can choose to deploy the app either as a Win32 application or as a Microsoft Store app or Windows catalog app
 
 If you decide to deploy Visual Studio Code as a Win32 application, use a unique app name format such as: **App-P[count]-YourAppName**. 
