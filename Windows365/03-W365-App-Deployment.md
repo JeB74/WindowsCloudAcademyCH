@@ -22,7 +22,7 @@ If you decide to deploy Visual Studio Code as a Win32 application, use a unique 
 
 ## Success Criteria
 
-- Application Visual Studio Code is assigned and installed on your Cloud PC.
+- All 3 applications are assigned and installed on your Cloud PC.
 
 ## Learning Resources
 - [Windows 365 and Apps](https://learn.microsoft.com/en-us/windows-365/enterprise/app-overview)
