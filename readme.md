@@ -13,21 +13,21 @@ AVD – is a fully cloud-native Desktop-as-a-Service (DaaS) platform. It include
 By the end of this Academy, you'll be able to:
 
 - Choose the right virtual desktop solution for your needs.
-- Set up and manage Windows 365 Cloud PCs and AVD environments using Microsoft tools.
+- Set up and manage Windows 365 Cloud PCs 
 - Configure Intune device policies, manage RDP properties, and deploy applications.
 
 ## Requirements
 
-- Basic Azure knowledge [(Azure fundamentals)](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 - Basic Intune knowledge [(Microsoft Intune fundamentals)](https://learn.microsoft.com/en-us/training/paths/endpoint-manager-fundamentals/)
 
 ## Agenda
 
 1.	Welcome
-2.	Introduction - Windows 365 and Azure Virtual Desktop
-3. Getting started with Azure Virtual Desktop
-4.	Getting started with Windows 365
-5.	Q&A
+2.	Windows 365 solution overview
+3. Licensing model
+4. Enterprise architeture design
+5.	Getting started with Windows 365
+6.	Q&A
 
 ## Rules
 
@@ -37,7 +37,7 @@ By the end of this Academy, you'll be able to:
  
  ## The environment
  
- This is the W365 & AVD Windows Cloud Academy Architecture:
+ This is the Windows Cloud Academy Architecture:
  
  ![This image shows the Windows Cloud Academy Architecture](Images/WindowsCloud-accelerator-baseline-architecture.png)
  
@@ -52,13 +52,7 @@ By the end of this Academy, you'll be able to:
  - [Windows App for macOS](https://aka.ms/WindowsAppForMacOS)
 
  ## Challenges
- 
- ### Azure Virtual Desktop
- 
- - Challenge 1: **[Create a host pool for multi-session desktops](Challenges/AVD/01-AVD-Multi-Session-Hostpool.md)**
- - Challenge 2: **[Configure RDP Properties](Challenges/AVD/02-AVD-RDP-Properties.md)**
- - Challenge 3: **[Enable AVD Insights](Challenges/AVD/03-AVD-Monitoring.md)**
- 
+  
  ### Windows 365
  
  - Challenge 1: **[Provisioning a Windows 365 Enterprise Cloud PC](Challenges/W365/01-W365-Provisioning-CPC.md)**
