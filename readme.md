@@ -2,9 +2,9 @@
 
 # Windows Cloud Academy
 
-The Windows Cloud Academy Switzerland is designed to help you get hands-on experience with Windows 365 (W365) .
+The Windows Cloud Academy Switzerland is designed to help you get hands-on experience with Windows 365 .
 
-W365 - is a cloud-based service that automatically provisions Cloud PCs—dedicated Windows devices assigned to individual users. It combines the productivity, security, and collaboration features of Microsoft 365 with the flexibility of the cloud.
+Windows 365 - is a cloud-based service that automatically provisions Cloud PCs—dedicated Windows devices assigned to individual users. It combines the productivity, security, and collaboration features of Microsoft 365 with the flexibility of the cloud.
 
 
 ## Learning objectives 
@@ -14,6 +14,7 @@ By the end of this Academy, you'll be able to:
 - Choose the right virtual desktop solution for your needs.
 - Set up and manage Windows 365 Cloud PCs 
 - Configure Intune device policies, manage RDP properties, and deploy applications.
+- Manage Windows 365
 
 ## Requirements
 
