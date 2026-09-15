@@ -20,11 +20,11 @@ Browse operational capabilities of Windows 365 service
 - [Cloud PC actions report](https://learn.microsoft.com/en-us/windows-365/enterprise/report-cloud-pc-actions)
 
 Learn about the Cloud PC utilization report in Endpoint analytics for Windows 365 Cloud PCs.
-- (Cloud PC utilization report for Windows 365)[https://learn.microsoft.com/en-us/windows-365/enterprise/report-cloud-pc-utilization?source=recommendations]
+- [Cloud PC utilization report for Windows 365](https://learn.microsoft.com/en-us/windows-365/enterprise/report-cloud-pc-utilization?source=recommendations)
 
 
 Learn about the Cloud PC connection quality report for Windows 365 Cloud PCs.
-(Cloud PC connection quality report for Windows 365)[https://learn.microsoft.com/en-us/windows-365/enterprise/report-cloud-pc-connection-quality?source=recommendations]
+-[Cloud PC connection quality report for Windows 365](https://learn.microsoft.com/en-us/windows-365/enterprise/report-cloud-pc-connection-quality?source=recommendations)
 
 
 Learn about the new Cloud PC monitoring and reporting platform for Windows 365 Cloud PCs managed in Microsoft Intune, including how to use its dashboards, tabs, and filters during public preview.
