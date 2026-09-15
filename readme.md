@@ -62,6 +62,7 @@ By the end of this Academy, you'll be able to:
  - Challenge 2: **[Configure RDP Properties](Windows365/02-W365-RDP-Properties.md)**
  - Challenge 3: **[Deploy application via Intune](Windows365/03-W365-App-Deployment.md)**
  - Challenge 4: **[Deploy Windows 365 Flex Shared Desktop or Cloud Apps](Windows365/04-W365-Flex-Provisioning.md)**
+ - Challenge 5: **[Monitor and Operate Windows 365](Windows365/05-W365-Operations.md)**
 
  ### Windows 365 for Agents (Draft)
 
