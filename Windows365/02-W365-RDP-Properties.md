@@ -1,6 +1,6 @@
 # Challenge 2: Configure RDP Properties
 
-[Previous Challenge](./01-W365-ENT-Provisioning.md) - **[Home](../../README.md)** - [Next Challenge](./03-W365-App-Deployment.md)
+[Previous Challenge](./01-W365-ENT-Provisioning.md) - **[Home](../README.md)** - [Next Challenge](./03-W365-App-Deployment.md)
 
 ## Introduction
 
