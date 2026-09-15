@@ -1,6 +1,6 @@
 # Challenge 5: Monitor and Operate Windows 365
 
-[Previous Challenge](./04-W365-Flex-Provisioning.md) - **[Home](../../README.md)**
+[Previous Challenge](./04-W365-Flex-Provisioning.md) - **[Home](../README.md)**
 
 ## Introduction
 -Admin Insights for Windows 365
