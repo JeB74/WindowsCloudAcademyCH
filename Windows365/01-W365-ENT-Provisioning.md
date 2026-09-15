@@ -1,6 +1,6 @@
 # Challenge 1: Provisioning a Windows 365 Enterprise Cloud PC
 
- **[Home](readme.md)** - [Next Challenge](./02-W365-RDP-Properties.md)
+ **[Home](../readme.md)** - [Next Challenge](./02-W365-RDP-Properties.md)
 
 ## Introduction
 
