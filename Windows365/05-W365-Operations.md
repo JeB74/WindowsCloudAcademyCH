@@ -9,13 +9,7 @@
 
 ## Challenge
 
-In this challenge, you can choose to deploy your single Windows 365 Flex license either in **dedicated desktop mode** or in **cloud apps mode** . 
-
-Each participant has **only one** Windows 365 Flex license available, so decide which option you would like to test:
-
-### Option 1 - Windows 365 Flex Shared in dedicated Desktop mode
-
-
+Browse operational capabilities of Windows 365 service 
 
 ## Success Criteria
 
@@ -52,5 +46,3 @@ Learn about the Connected Windows 365 Flex Cloud PCs report in for Windows 365 C
 Connected Windows 365 Flex Cloud PCs report for Windows 365
 
 
-
-Show less
