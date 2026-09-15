@@ -64,10 +64,6 @@ By the end of this Academy, you'll be able to:
  - Challenge 4: **[Deploy Windows 365 Flex Shared Desktop or Cloud Apps](Windows365/04-W365-Flex-Provisioning.md)**
  - Challenge 5: **[Monitor and Operate Windows 365](Windows365/05-W365-Operations.md)**
 
- ### Windows 365 for Agents (Draft)
-
- - Challenge 1: **[Build a Copilot Studio Agent with Computer Use on Windows 365 (Draft)](Challenges/W365A/01-W365A-Copilot-Agent.md)**
-
 ## Contributor
 - [Jean-Noël Buosi](https://www.linkedin.com/in/jean-noël-buosi/)
 - [Slavko Vasic](https://www.linkedin.com/in/slavkovasic/)
