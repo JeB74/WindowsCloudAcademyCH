@@ -35,9 +35,11 @@ In addition **no local drive** should be available in the remote session.
 Your Security Team want to improve authentiation when accessing Windows 365 from a unmanaged device.
 In order to validate the rule, the policy will be set in **Audit Mode** only.
 
+In addition, the security team would like to review existing capabilities preventing sensitive data from being captured from the Cloud PC
+
 ## Learning Resources
+- [Security guidelines](https://learn.microsoft.com/en-us/windows-365/enterprise/security-guidelines)
 - [Manage RDP Devices](https://learn.microsoft.com/en-us/windows-365/enterprise/manage-rdp-device-redirections)
-- [Watermarking in Windows 365](https://learn.microsoft.com/en-us/windows-365/enterprise/watermarking)
 - [Create a device profile in Microsoft Intune](https://learn.microsoft.com/en-us/mem/intune/configuration/device-profile-create)
 - [Dynamic membership rules for groups in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-dynamic-membership)
 - [Use filters when assigning your apps, policies, and profiles in Microsoft Intune](https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/filters)
