@@ -9,11 +9,12 @@
 
 ## Challenge
 
-Browse operational capabilities of Windows 365 service 
+Review operational capabilities part of Windows 365 service 
 
 ## Success Criteria
 
-
+Now your Cloud PC is provisionned, take a moment to review operational aspect and key benefits of service.
+Share your thoughts !
 
 ## Learning Resources
 - [Alerts in Windows 365](https://learn.microsoft.com/en-us/windows-365/enterprise/alerts)
@@ -38,7 +39,8 @@ Learn how to remotely manage Windows 365 devices.
 Remotely manage Windows 365 devices
 
 Troubleshoot provisioning errors in Windows 365.
-Troubleshoot provisioning errors - Windows 365
+-[https://learn.microsoft.com/en-us/troubleshoot/windows-365/provisioning-errors]
+
 
 Learn how to move a Cloud PC by using Microsoft Intune.
 Move a Cloud PC
