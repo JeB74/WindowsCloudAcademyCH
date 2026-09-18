@@ -30,6 +30,9 @@ In addition **no local drive** should be available in the remote session.
 - A new **dynamic group** with **your** Cloud PC is configured **or** **Intune assignment filter** for **your** Cloud PC. 
 - A new device configuration policy is created for your Cloud PC and **Copy & Paste** is not possible and **local drives** are **not** redirected.
 
+## Challenge Conditional Access configuration
+
+
 ## Learning Resources
 - [Manage RDP Devices](https://learn.microsoft.com/en-us/windows-365/enterprise/manage-rdp-device-redirections)
 - [Create a device profile in Microsoft Intune](https://learn.microsoft.com/en-us/mem/intune/configuration/device-profile-create)
