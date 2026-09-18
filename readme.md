@@ -13,8 +13,8 @@ By the end of this Academy, you'll be able to:
 
 - Choose the right virtual desktop solution for your needs.
 - Set up and manage Windows 365 Cloud PCs 
-- Configure Intune device policies, manage RDP properties, and deploy applications.
-- Manage Windows 365
+- Configure Intune device policies, configure security settings and manage RDP properties
+- Deploy applications
 
 ## Requirements
 
