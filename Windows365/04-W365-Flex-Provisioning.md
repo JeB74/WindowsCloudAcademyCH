@@ -18,6 +18,8 @@ In this challenge, you can choose to deploy your single Windows 365 Flex license
 
 Each participant has **only one** Windows 365 Flex license available, so decide which option you would like to test:
 
+- User settings and Windows personalization must be consistent acoss Cloud PC and Cloud App sessions.
+
 ### Option 1 - Windows 365 Flex Shared in dedicated Desktop mode
 
 - Create a provisioning policy
