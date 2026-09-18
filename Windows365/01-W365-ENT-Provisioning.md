@@ -22,11 +22,11 @@ To set up your system to provision on-demand Cloud PCs for you, you need to:
   - The Cloud PC will use 4h frequency for restore-point service
 - Following Applications **7-Zip(x64)** and **Adobe Acrobat Reader DC** must be installed during provisioning
 - Create a provisioning policy with **W365ENT_PP-P[count]-YourPolicyName**
-  - Your Cloud PC is using the Microsoft Hosted Networks.
+  - Your Cloud PC is using the Microsoft Hosted Networks
   - Your Cloud PC is using latest version of Windows 11 with M365Apps
-  - The Cloud PC is located in Switzerland and using Entra SSO
+  - Useris located in Switzerland and using Entra SSO
 - **Make sure your Cloud PC has a custom name that is not the default, for example: CPC-P1-%RAND:5%"**
-- Assign licenses to your user or group and monitor 'All Cloud PCs' view
+- Assign licenses to your user or group and monitor cloud PC provisioning
 
 ## Success Criteria
 - A Windows365 & Intune License is automatically assigned to your users.
