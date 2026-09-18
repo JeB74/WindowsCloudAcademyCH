@@ -9,7 +9,8 @@
 
 ## Challenge
 
-Review operational capabilities part of Windows 365 service 
+Review operational capabilities part of Windows 365 service.
+You have to operate a maintenance (application update) on the Cloud PC, and you need to ensure a proper rollback in case of issue. 
 
 ## Success Criteria
 
