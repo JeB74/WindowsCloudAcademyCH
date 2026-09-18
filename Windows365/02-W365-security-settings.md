@@ -14,7 +14,7 @@ In General there are two ways to manage these redirections:
 
 **Group Policy Object (GPO)**: Use GPOs in Windows Server Active Directory. Supports Microsoft Entra ID hybrid joined Cloud PCs only.
 
-## Challenge
+## Challenge RDP properties configuration
 
 Your Security Team want to **prevent** that a user can **Copy & Paste** data from their local client to the Cloud PC.
 
